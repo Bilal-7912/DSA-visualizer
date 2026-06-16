@@ -52,7 +52,7 @@ export const StackVisualizer = ({ nodes }) => {
                     layoutId="stack-top-ptr"
                     className="stack-arrow-ptr"
                   >
-                    TOP ➔
+                    TOP ↑
                   </motion.div>
                 )}
               </motion.div>
